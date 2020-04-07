@@ -6,7 +6,7 @@
 
 [flutter install](https://flutter.dev/docs/get-started/install/windows)에 접속하여 SDK 다운로드.
 
-![SDK 다운로드](images/01.png)
+![SDK 다운로드](https://github.com/kjk7034/FlutterSetup/blob/master/images/img01.png)
 
 `C:\Users\wise7034\Desktop\workspace\flutterSDK 폴더에 설치.`
 
