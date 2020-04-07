@@ -14,12 +14,12 @@
 
 `시스템 속성 > 환경 변수 > Path 편집 > 찾아보기 > 설치한 bin파일 추가`
 
-![시스템 환경 변수 설정](./images/02.png)
+![시스템 환경 변수 설정](https://github.com/kjk7034/FlutterSetup/blob/master/images/img02.png)
 
 ### 설치 확인
 
 `터미널을 열고 flutter --version 확인`
 
-![flutter 버전확인](./images/03.png)
+![flutter 버전확인](https://github.com/kjk7034/FlutterSetup/blob/master/images/img03.png)
 
 ## macOS
