@@ -46,6 +46,6 @@ Android 스튜디오를 실행
 
 IDE를 재실행 하면 다음과 같이 Start a new Flutter project를 통해서 시작.
 
-![Android Studio 실행화면]](https://github.com/kjk7034/FlutterSetup/blob/master/images/img07.png)
+![Android Studio 실행화면](https://github.com/kjk7034/FlutterSetup/blob/master/images/img07.png)
 
 ## macOS
